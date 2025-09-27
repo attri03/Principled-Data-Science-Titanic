@@ -8,11 +8,11 @@ A comprehensive, first-principles approach to statistical modeling and machine l
 
 The analysis confirms that survival was far from random. Based on the model, the passenger with the highest probability of surviving the Titanic disaster was a wealthy, young, female passenger from 1st class who boarded at Cherbourg and was not part of a large family. Conversely, the passenger with the lowest chance was an older, male passenger from 3rd class who was part of a large family.
 
-![What Drives the Odds?](visualizations\What Drives the Odds.png)
+![What Drives the Odds?](visualizations\What_Drives_the_Odds.png)
 
 The analysis concluded that while several models performed well, the ensemble boosting techniques delivered the highest accuracy. **Gradient Boosting** emerged as the top-performing model with an accuracy of **85.93%**.
 
-![Model Comparison Chart](visualizations/Comparison between the models.png)
+![Model Comparison Chart](visualizations/Comparison_between_the_models.png)
 
 ---
 
